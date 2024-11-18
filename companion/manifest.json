@@ -1,16 +1,16 @@
 {
-	"id": "your-module-name",
-	"name": "your-module-name",
-	"shortname": "module-shortname",
-	"description": "A short one line description of your module",
-	"version": "0.0.0",
+	"id": "Feelworld L4 Video Switcher",
+	"name": "Feelworld L4 Video Switcher",
+	"shortname": "L4 Switcher",
+	"description": "Use all the functions available on the L4 Switcher",
+	"version": "0.0.1",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
 	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
 	"maintainers": [
 		{
-			"name": "Your name",
-			"email": "Your email"
+			"name": "Justin Dube",
+			"email": "justindube1987@gmail.com"
 		}
 	],
 	"runtime": {
@@ -22,5 +22,5 @@
 	"legacyIds": [],
 	"manufacturer": "Your company",
 	"products": ["Your product"],
-	"keywords": []
+	"keywords": ["Feelworld","L4","Switcher"]
 }
